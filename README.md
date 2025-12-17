@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yokesh
 - 👀 I’m interested in Web developement
--  I’m currently Working System admin on Dhanalakshmi college of engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
